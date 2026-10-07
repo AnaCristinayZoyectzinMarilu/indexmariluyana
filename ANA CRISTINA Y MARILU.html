@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Ana Cris y Marilu</title>
+
+</head> 
+
+<body> 
+<p>Hola, BIENVENIDOS somos alumnas de 5° de pedagogía y es nuestra primer pagina <img src="CRIS Y YO.jpeg" width="400" height="600" />
+  
+</p>
+<table width="630" border="2" align="center">
+  <tr>
+    <td width="139" bgcolor="#FFCCFF"><p>ANA CRISTINA</p>
+    <p><strong>Cualidades</strong></p></td>
+    <td width="119" bgcolor="#FFCCFF"><p>&nbsp;</p>
+    <p><strong>Defectos</strong></p></td>
+    <td width="192" bgcolor="#FFCCFF"><p>ZOYECTZIN MARILU</p>
+    <p><strong>Cualidades</strong></p></td>
+    <td width="150" bgcolor="#FFCCFF"><p>&nbsp;</p>
+    <p><strong>Defectos</strong></p></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF99FF">Entusiasta</td>
+    <td bgcolor="#FF99FF">Irresponsable</td>
+    <td bgcolor="#FF99FF">Creativa</td>
+    <td bgcolor="#FF99FF">Inpuntual</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF99FF">Agradecida</td>
+    <td bgcolor="#FF99FF">Impuntual</td>
+    <td bgcolor="#FF99FF">Optimista</td>
+    <td bgcolor="#FF99FF">Manipuladora</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF99FF">Creativa</td>
+    <td bgcolor="#FF99FF">Drámatica</td>
+    <td bgcolor="#FF99FF">Extrovertida</td>
+    <td bgcolor="#FF99FF">Impulsiva</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF99FF">Paciente</td>
+    <td bgcolor="#FF99FF">Indecisa</td>
+    <td bgcolor="#FF99FF">Materialista</td>
+    <td bgcolor="#FF99FF">Dependiente</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF99FF">Sociable</td>
+    <td bgcolor="#FF99FF">Terca</td>
+    <td bgcolor="#FF99FF">Perfeccionista</td>
+    <td bgcolor="#FF99FF">Mal humorada</td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF99FF">Empática</td>
+    <td bgcolor="#FF99FF">Perfeccionista</td>
+    <td bgcolor="#FF99FF">Divertida</td>
+    <td bgcolor="#FF99FF">Sarcastica</td>
+  </tr>
+</table>
+<p>Ana Cristina Ornelas Archundia: soy de Aculco Estado de Mexico actualmente me encuentro estudiando en la UPN Acambay, estoy cursando el quinto semestre de la licenciatura en Pedagogia y estoy creando mi primer sitio web en la materia de habilidades digitales,mi comida favorita son las enchiladas verdes,ocupo el lugar numero 5 de 6 hijos, mis padres son Matilde Archundia Navarrete y Miguel Angel Ornelas Barron, mi color favorito es el verde, azul y rosa, me encanta pasar tiempo con mi familia y la naturaleza, disfruto mucho comer cosas dulces y prefiero los planes tranquilos, no me gusta la adrenalina y soy una persona muy paciente, tengo un chihuahua que se llama Toby y tres gatitos.</p>
+<p>Zoyectzin Marilu Huitrón: soy de Acambay Estado de Mexico actualmente me encuentro estudiando la licenciatura en Pedagogia en la UPN Acambay, estoy cursando el quinto semestre, por primera vez estoy creando un sitio web en la materia de habilidades digitales; Considero que soy una persona responsable, dedicada y con muchas ganas de seguir aprendiendo y creciendo tanto en lo personal como en lo académico. Suelo esforzarme por hacerlas cosas de la mejor manera posible y, aunque en ocaciones puedo llegar a dudar de mis capacidades, siempre busco la forma de superar los retos y aprender de cada experiencia. Valoro mucho a mi familia, mis amistades y a todas las personas que me ayudan a construirme </p>
+<p>&nbsp;</p>
+</body>
+</html>
